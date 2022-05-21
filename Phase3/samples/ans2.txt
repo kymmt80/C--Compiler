@@ -1,0 +1,2 @@
+Line 24: Left side of the assignment must be a valid lvalue
+Line 25: Left side of the assignment must be a valid lvalue
